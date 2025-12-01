@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虛擬環境
+shared_budget/
+
+# 編輯器設定
+.vscode/
+.idea/
+
+# 其他暫存
+*.log
